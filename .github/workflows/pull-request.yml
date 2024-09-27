@@ -31,9 +31,9 @@ jobs:
         hugo --minify
 
 
-  lighthouse-check:
-    runs-on: ubuntu-latest
-    steps:
+  #lighthouse-check:
+  #  runs-on: ubuntu-latest
+  #  steps:
     #- name: Waiting for Netlify Preview
     #  uses: kamranayub/wait-for-netlify-action@v2.1.1
     #  id: preview
