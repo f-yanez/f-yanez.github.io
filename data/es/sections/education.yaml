@@ -1,0 +1,67 @@
+# section information
+section:
+  name: Educación
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+- name: Doctorado en Ciencias de la Computación
+  icon: fa-microscope
+  timeframe: 2021-Presente
+  institution:
+    name: Universidad de Toronto
+    url: "https://web.cs.toronto.edu/"
+    logo: /images/sections/education/uoft.png
+  grade: 
+    scale: CGPA
+    achieved: 4
+    outOf: 4
+  extracurricularActivities:
+  - Voluntario como mentor para el Programa de Asistencia para Aplicaciones de Posgrado.
+  - Voluntario como mentor de la Maestría profesional para la preparación de entrevistas técnicas.
+  - Voluntario en el proceso de admisión para el Programa de Verano para Estudiantes Afectados por la Guerra en Ucrania.
+  - Tutor voluntario de matemáticas para estudiantes de secundaria de comunidades marginadas.
+
+- name: Ingeniería de Sistemas
+  icon: fa-graduation-cap
+  timeframe: 2016-2018
+  institution:
+    name: Universidad Metropolitana
+    url: "https://www.unimet.edu.ve/"
+    logo: /images/sections/education/unimet.png
+  grade: 
+    scale: CGPA
+    achieved: 3.86
+    outOf: 4
+  extracurricularActivities:
+  - UNIMET SAE Aero Design - Miembro y Secretario General.
+  - Grupo de Teatro Thespis - Actor.
+  - Federación de Centros de Estudiantes de UNIMET - Miembro.
+  - AIESEC - Voluntario en un hogar de acogida para niños en situaciones de riesgo (Curitiba, Brasil).
+
+- name: Diploma en Matemáticas Avanzadas
+  icon: fa-school
+  timeframe: 2016-2017
+  institution:
+    name: Universidad Metropolitana
+    url: "https://www.unimet.edu.ve/"
+    logo: /images/sections/education/unimet.png
+  grade: 
+    scale: GPA
+    achieved: 4
+    outOf: 4
+
+- name: Ingeniería de Producción - Estudios Parciales
+  icon: fa-university
+  timeframe: 2013-2018
+  institution:
+    name: Universidad Simón Bolívar
+    url: "http://www.usb.ve/"
+    logo: /images/sections/education/usb.png
+  grade: 
+    scale: GPA
+    achieved: 3.66
+    outOf: 4

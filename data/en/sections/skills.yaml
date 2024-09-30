@@ -4,8 +4,8 @@ section:
   id: skills
   enable: false
   weight: 2
-  showOnNavbar: true
-  filter: true
+  showOnNavbar: false
+  filter: false
   # Can optionally hide the title in sections
   # hideTitle: true
 

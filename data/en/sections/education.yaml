@@ -16,6 +16,7 @@ degrees:
   institution:
     name: University of Toronto
     url: "https://web.cs.toronto.edu/"
+    logo: /images/sections/education/uoft.png
   grade: #(optional)
     scale: CGPA
     achieved: 4
@@ -38,6 +39,7 @@ degrees:
   institution:
     name: Universidad Metropolitana
     url: "https://www.unimet.edu.ve/"
+    logo: /images/sections/education/unimet.png
   grade: #(optional)
     scale: CGPA
     achieved: 3.86
@@ -75,6 +77,7 @@ degrees:
   institution:
     name: Universidad Metropolitana
     url: "https://www.unimet.edu.ve/"
+    logo: /images/sections/education/unimet.png
   grade: #(optional)
     scale: GPA
     achieved: 4
@@ -85,6 +88,7 @@ degrees:
   institution:
     name: Universidad Simón Bolívar
     url: "http://www.usb.ve/" 
+    logo: /images/sections/education/usb.png
   grade: #(optional)
     scale: GPA
     achieved: 3.66
