@@ -11,14 +11,14 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Human Interactive Visualizations - HIVE Lab
-    url: "https://www.cs.toronto.edu/~cnobre/"
+    name: Schwartz Reisman Institute for Technology and Society
+    url: "https://srinstitute.utoronto.ca/"
     location: Toronto, Canada
     # company overview
-    overview: ML-powered visualizations for personalized visual literacy, supervised by Prof. Carolina Nobre.
+    overview: 
   positions:
-  - designation: Research Assistant
-    start: Sep 2022
+  - designation: Graduate Fellow
+    start: Sep 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -27,13 +27,56 @@ experiences:
     #- Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
     #- Lead backend team.
 
-  #- designation: Junior Software Engineer
-  #  start: Nov 2017
-  #  end: Oct 2019
-  #  responsibilities:
-  #  - Implement and test xyz feature for abc tool.
-  #  - Support client for abc tool.
-  #  - Learn k,d,w technology for xyz.
+- company:
+    name: Massey College
+    url: "https://www.masseycollege.ca/"
+    location: Toronto, Canada
+    # company overview
+    overview: 
+  positions:
+  - designation: Junior Fellow
+    start: Sep 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Mentoring and Tutoring Committee Co-chair
+    - Member of the Lionel Massey Fund
+    #- Lead backend team.
+
+- company:
+    name: Radical Ventures
+    url: "https://radical.vc/"
+    location: Toronto, Canada
+    # company overview
+    overview: Radical AI Founders cohort
+  positions:
+  - designation: Radical AI Founder
+    start: Sep 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Dec 2023
+    # give some points about what was your responsibilities at the company.
+    #responsibilities:
+    #- Design and develop XYZ tool for ABC task
+    #- Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    #- Lead backend team.
+
+- company:
+    name: Human Interactive Visualizations - HIVE Lab
+    url: "https://www.cs.toronto.edu/~cnobre/"
+    location: Toronto, Canada
+    # company overview
+    overview: ML-powered visualizations for personalized visual literacy, supervised by Prof. Carolina Nobre.
+  positions:
+  - designation: PhD Student
+    start: Sep 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    #responsibilities:
+    #- Design and develop XYZ tool for ABC task
+    #- Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    #- Lead backend team.
 
 - company:
     name: University of Toronto
@@ -45,7 +88,8 @@ experiences:
     start: Sep 2022
     end: Apr 2023
     responsibilities:
-    - Introduction to Computer Programming (Fall 2022, Winter 2023).
+    - Introduction to Computer Programming (Fall 2022, Winter 2023, Fall 2023, Winter 2024).
+    - Probability and Statistics (Winter 2024).
 
 - company:
     name: Intelligent Adaptive Interactions - IAI Lab

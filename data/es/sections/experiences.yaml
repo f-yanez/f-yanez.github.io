@@ -1,0 +1,114 @@
+# section information
+section:
+  name: Experiencia
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+# Your experiences
+experiences:
+- company:
+    name: Schwartz Reisman Institute for Technology and Society
+    url: "https://srinstitute.utoronto.ca/"
+    location: Toronto, Canadá
+    logo: /images/sections/experiences/sri.png
+    overview: 
+  positions:
+  - designation: Graduate Fellow
+    start: Sep 2024
+
+- company:
+    name: Massey College
+    url: "https://www.masseycollege.ca/"
+    location: Toronto, Canadá
+    logo: /images/sections/experiences/massey.png
+    overview: 
+  positions:
+  - designation: Junior Fellow
+    start: Sep 2023
+    responsibilities:
+    - Copresidente del Comité de Mentoría y Tutoría
+    - Miembro del Fondo Lionel Massey
+
+- company:
+    name: Radical Ventures
+    url: "https://radical.vc/"
+    location: Toronto, Canadá
+    logo: /images/sections/experiences/rv.jpeg
+    overview: Cohorte de Radical AI Founders
+  positions:
+  - designation: Radical AI Founder
+    start: Sep 2023
+    end: Dec 2023
+
+- company:
+    name: Human Interactive Visualizations - HIVE Lab
+    url: "https://www.cs.toronto.edu/~cnobre/"
+    location: Toronto, Canadá
+    logo: /images/sections/experiences/hive.jpg
+    overview: Visualizaciones impulsadas por ML para mejorar la alfabetización visual personalizada, supervisado por la Prof. Carolina Nobre.
+  positions:
+  - designation: Estudiante de Doctorado
+    start: Sep 2022
+
+- company:
+    name: Universidad de Toronto
+    url: "https://web.cs.toronto.edu/"
+    location: Toronto, Canadá
+    logo: /images/sections/experiences/uoft.png
+  positions:
+  - designation: Instructor de Curso
+    start: Sep 2022
+    end: Apr 2023
+    responsibilities:
+    - Introducción a la Programación (Otoño 2022, Invierno 2023, Otoño 2023, Invierno 2024).
+    - Probabilidad y Estadística (Invierno 2024).
+
+- company:
+    name: Intelligent Adaptive Interactions - IAI Lab
+    url: "https://www.josephjaywilliams.com/"
+    location: Toronto, Canadá
+    logo: /images/sections/experiences/iai.jpeg
+    overview: Implementación de algoritmos Multi-Armed Bandits en entornos educativos, supervisado por el Prof. Joseph Williams.
+  positions:
+  - designation: Asistente de Investigación
+    start: Sep 2021
+    end: Sep 2022
+
+- company:
+    name: Microsoft
+    url: "https://www.microsoft.com/"
+    location: Vancouver, Canadá
+    logo: /images/sections/experiences/msft.png
+    overview: Desarrollador en el equipo de Servicios de Plataforma para Experiencias de Cuenta y Conectadas, contribuyendo a diversos servicios web que potencian las experiencias de Windows y account.microsoft.com mientras se conectan con importantes servicios de backend (p.ej., Office, Xbox).
+  positions:
+  - designation: Ingeniero de Software
+    start: Jan 2020
+    end: Sep 2021
+
+- company:
+    name: QUANTIC - Centro de Supercomputación de Barcelona
+    url: "https://www.bsc.es/discover-bsc/organisation/scientific-structure/quantic"
+    location: Barcelona, España
+    logo: /images/sections/experiences/quantic.png
+    overview: Estudio de Procesos Gaussianos y sus intersecciones con la Computación Cuántica, supervisado por el Prof. J.I. Latorre.
+  positions:
+  - designation: Investigador Visitante
+    start: Sep 2019
+    end: Nov 2019
+
+- company:
+    name: Universidad Metropolitana
+    url: "https://www.unimet.edu.ve/"
+    location: Caracas, Venezuela
+    logo: /images/sections/experiences/unimet2.png
+  positions:
+  - designation: Instructor Adjunto e Investigador
+    start: Sep 2018
+    end: Jan 2020
+    responsibilities:
+    - Algoritmos y Programación (Invierno 2019, Verano 2019).
+    - Estadística I (Invierno 2019, Verano 2019).
+    - Ecuaciones Diferenciales (Invierno 2019, Verano 2019).
+    - Pre-Cálculo (Otoño 2018, Invierno 2019, Verano 2019).

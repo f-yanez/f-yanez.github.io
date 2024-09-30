@@ -2,7 +2,7 @@
 name: "Fernando Yánez"
 nickname: "Fernando"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Hola, soy"
 image: "images/author/fyanez.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -13,8 +13,8 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a Generative AI specialist
-  - I am a researcher
-  - I am an entrepreneur
-  - I am a thinker
-  - I am a writer
+  - Soy un especialista en IA generativa
+  - Soy un investigador
+  - Soy un emprendedor
+  - Soy un pensador
+  - Soy un escritor

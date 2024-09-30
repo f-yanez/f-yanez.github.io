@@ -1,0 +1,76 @@
+# section information
+section:
+  name: Patentes
+  id: publications
+  enable: true
+  weight: 7
+  showOnNavbar: true
+
+# filter buttons
+buttons:
+- name: Todas
+  filter: "all"
+- name: "Aprendizaje Automático"
+  filter: "machinelearning"
+- name: "Interacción Humano-Computadora"
+  filter: "hci"
+- name: "Recuperación de Información"
+  filter: "info-retrieval"
+- name: "Privacidad"
+  filter: "privacy"
+
+# your patents
+publications:
+- title: Filtrado de Contenido Visual Compartido durante Reuniones Virtuales
+  publishedIn:
+    name: Microsoft
+    date: 6 de agosto de 2021
+    url: https://www.microsoft.com/en-us/legal/intellectualproperty/patents
+  authors:
+  - name: Romain Rey
+    url: https://www.linkedin.com/in/romrey/
+  - name: Mastafa Foufa
+    url: https://www.linkedin.com/in/mastafa-foufa/
+  - name: Fernando Yánez
+    url: www.linkedin.com/in/f-yanez/
+  paper:
+    summary: Un método para compartir contenido visual durante una reunión virtual que incluye, durante la reunión, recibir una solicitud para compartir contenido visual que incluye uno o más elementos de contenido visual generados por un dispositivo cliente. Para cada uno de los elementos de contenido visual, se determina un vector de características. Cada vector de características se envía a un servidor remoto. El servidor indica si un elemento de contenido visual específico es potencialmente sujeto a filtrado, basado en una diferencia entre un vector de características de la reunión y el vector del elemento de contenido que excede un umbral de filtrado.
+    url: https://patents.justia.com/patent/20230042015
+  categories: ["machinelearning"]
+  tags: ["Aprendizaje Automático", "Embeddings", "Control de Acceso"]
+
+- title: Recuperación de Interacciones Específicas del Usuario en Computadoras
+  publishedIn:
+    name: Microsoft
+    date: 12 de abril de 2021
+    url: https://www.microsoft.com/en-us/legal/intellectualproperty/patents
+  authors:
+  - name: Fernando Yánez
+    url: www.linkedin.com/in/f-yanez/
+  - name: Mastafa Foufa
+    url: https://www.linkedin.com/in/mastafa-foufa/
+  - name: Romain Rey
+    url: https://www.linkedin.com/in/romrey/
+  paper:
+    summary: Un método implementado por computadora para recuperar interacciones específicas del usuario. Los datos de la aplicación del usuario se traducen en diferentes vectores de contenido que representan interacciones específicas. Los vectores se mapean a un espacio de contenido de alta dimensión. Una consulta se traduce a un vector de consulta, y se realizan operaciones geométricas para comparar vectores de contenido en el espacio de alta dimensión para identificar la interacción del usuario que correlaciona con la consulta.
+    url: https://patents.justia.com/patent/20220327120
+  categories: ["machinelearning","hci", "info-retrieval"]
+  tags: ["Aprendizaje Automático", "Embeddings", "Sistemas de Recomendación", "Recuperación de Información"]
+
+- title: Método y Sistema para Proporcionar Respuestas Inteligentes para un Usuario en su Ausencia
+  publishedIn:
+    name: Microsoft
+    date: 23 de noviembre de 2020
+    url: https://www.microsoft.com/en-us/legal/intellectualproperty/patents
+  authors:
+  - name: Romain Rey
+    url: https://www.linkedin.com/in/romrey/
+  - name: Mastafa Foufa
+    url: https://www.linkedin.com/in/mastafa-foufa/
+  - name: Fernando Yánez
+    url: www.linkedin.com/in/f-yanez/
+  paper:
+    summary: Un método y sistema para responder a un mensaje dirigido a un destinatario que incluye recibir el mensaje con una consulta, recibir una indicación de que el destinatario no está disponible, y proporcionar la consulta a un modelo de aprendizaje automático para identificar la información solicitada. El método incluye obtener la información solicitada, determinar si el remitente tiene acceso a la información basada en un grupo de confidencialidad, y generar una respuesta que incluya la información solicitada.
+    url: https://patents.justia.com/patent/20220166731
+  categories: ["machinelearning","privacy"]
+  tags: ["Aprendizaje Automático", "Seguridad de Datos", "Control de Acceso"]

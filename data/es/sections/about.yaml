@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Acerca de
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Estudiante de Doctorado
+# your company information
+company:
+  name: Universidad de Toronto
+  url: "https://www.utoronto.ca/"
+
+# your summary
+summary: "Soy un ingeniero en computación especializado en IA generativa, sistemas adaptativos al usuario, emprendimiento y educación.\n\nMi enfoque actual es guiar a individuos y empresas en la integración de la IA generativa como una herramienta poderosa para mejorar diversos aspectos de sus vidas y operaciones. Mi objetivo es desmitificar la IA y proporcionar estrategias prácticas para su uso en tareas diarias, proyectos creativos y flujos de trabajo. A través de sesiones de coaching personalizadas, ayudo a los clientes a comprender cómo aprovechar las capacidades de la IA de manera efectiva, ya sea para automatizar procesos, crear contenido único o mejorar la toma de decisiones, impulsando así su crecimiento personal y profesional.\n\nPersonalmente, estoy interesado en construir el futuro de la educación al personalizar el contenido y las explicaciones que ofrecemos a los estudiantes, con el objetivo de maximizar su comprensión. La educación tradicional se basa en limitaciones pasadas, que se remontan a la época medieval, donde una persona tenía que dirigirse a muchos estudiantes al mismo tiempo. Por lo tanto, las técnicas de enseñanza se desarrollaron como un enfoque general para todos por igual. Hoy en día, tenemos la tecnología para construir Sistemas de Enseñanza Inteligente y Adaptativa que personalizarán la enseñanza para cada individuo."
+
+# your social links
+socialLinks:
+- name: Correo Electrónico
+  icon: "fas fa-envelope"
+  url: "fernando@yanez.xyz"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/yanezlfernando/"
+
+# resource links
+resourceLinks:
+- title: "Mi Currículum"
+  url: "files/resume.pdf"
+
+# badges
+badges:
+# Puedes agregar certificados verificables o indicadores de habilidades aquí si es relevante en el futuro.
