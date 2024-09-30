@@ -14,6 +14,7 @@ experiences:
     name: Schwartz Reisman Institute for Technology and Society
     url: "https://srinstitute.utoronto.ca/"
     location: Toronto, Canada
+    logo: /images/sections/experiences/sri.png
     # company overview
     overview: 
   positions:
@@ -31,6 +32,7 @@ experiences:
     name: Massey College
     url: "https://www.masseycollege.ca/"
     location: Toronto, Canada
+    logo: /images/sections/experiences/massey.png
     # company overview
     overview: 
   positions:
@@ -48,6 +50,7 @@ experiences:
     name: Radical Ventures
     url: "https://radical.vc/"
     location: Toronto, Canada
+    logo: /images/sections/experiences/rv.jpeg
     # company overview
     overview: Radical AI Founders cohort
   positions:
@@ -65,6 +68,7 @@ experiences:
     name: Human Interactive Visualizations - HIVE Lab
     url: "https://www.cs.toronto.edu/~cnobre/"
     location: Toronto, Canada
+    logo: /images/sections/experiences/hive.jpg
     # company overview
     overview: ML-powered visualizations for personalized visual literacy, supervised by Prof. Carolina Nobre.
   positions:
@@ -82,6 +86,7 @@ experiences:
     name: University of Toronto
     url: "https://web.cs.toronto.edu/"
     location: Toronto, Canada
+    logo: /images/sections/experiences/uoft.png
     #overview: 
   positions:
   - designation: Course Instructor
@@ -95,6 +100,7 @@ experiences:
     name: Intelligent Adaptive Interactions - IAI Lab
     url: "https://www.josephjaywilliams.com/"
     location: Toronto, Canada
+    logo: /images/sections/experiences/iai.jpeg
     overview: Implement Multi-Armed Bandits algorithms in educational settings, supervised by Prof. Joseph Williams.
   positions:
   - designation: Research Assistant
@@ -109,6 +115,7 @@ experiences:
     name: Microsoft
     url: "https://www.microsoft.com/"
     location: Vancouver, Canada
+    logo: /images/sections/experiences/msft.png
     overview: Developer at the Services Platform for Account & Connected Experiences team in the W+D organization contributing to different web services powering Windows’ and account.microsoft.com’s experiences while connecting with major backend services (e.g., Office, Xbox).
   positions:
   - designation: Software Engineer
@@ -123,6 +130,7 @@ experiences:
     name: QUANTIC - Barcelona Supercomputing Center
     url: "https://www.bsc.es/discover-bsc/organisation/scientific-structure/quantic"
     location: Barcelona, Spain
+    logo: /images/sections/experiences/quantic.png
     overview: Study Gaussian Processes and their intersections with Quantum Computing, supervised by Prof. J.I. Latorre.
   positions:
   - designation: Visiting Researcher
@@ -137,6 +145,7 @@ experiences:
     name: Metropolitan University
     url: "https://www.unimet.edu.ve/"
     location: Caracas, Venezuela
+    logo: /images/sections/experiences/unimet2.png
     #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
   - designation: Adjunct Instructor and Researcher
