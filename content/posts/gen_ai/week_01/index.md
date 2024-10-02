@@ -6,13 +6,17 @@ menu:
   sidebar:
     name: Starting the AI Journey
     identifier: starting_the_ai_journey
-    parent: gen_ia
+    parent: gen_ai
     weight: 20240930
 hero: hero.webp
-tags: ["Generative AI", "Artificial Intelligence", "AI Journey", "Exploration", "Learning"]
+tags: ["Week 1", "Generative AI", "Artificial Intelligence", "AI Journey", "Exploration", "Learning"]
 categories: ["Technology", "AI in Everyday Life", "Self-Improvement"]
 summary: "A beginner-friendly introduction to Generative AI, focusing on learning and exploration to integrate AI into daily life."
 ---
+
+<p style="text-align: right;">
+<em>Image by DALL-E.</em>
+</p>
 
 ## What Generative AI Is and Why It Matters
 
@@ -48,4 +52,5 @@ Together, we’ll explore how to discover nuanced ways to bring your ideas to li
 
 
 
-_Image by DALL-E._
+
+{{< hands-on-button path="/posts/gen_ai/week_01_tutorial/" >}}

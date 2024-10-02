@@ -1,0 +1,71 @@
+<script>
+    let currentSection = 1;
+    const totalSections = {{ .Get "totalSections" | default 8 }};
+
+    function updateButtons() {
+        const prevBtn = document.getElementById('prevBtn');
+        const nextBtn = document.getElementById('nextBtn');
+
+        if (currentSection === 1) {
+            prevBtn.style.visibility = 'hidden';
+        } else {
+            prevBtn.style.visibility = 'visible';
+        }
+
+        if (currentSection === totalSections) {
+            nextBtn.style.display = 'none';
+        } else {
+            nextBtn.style.display = 'block';
+        }
+    }
+
+    function nextSection() {
+        const current = document.getElementById(`section${currentSection}`);
+        const next = document.getElementById(`section${currentSection + 1}`);
+
+        if (next) {
+            current.style.display = 'none';
+            next.style.display = 'block';
+            currentSection++;
+            updateButtons();
+        }
+    }
+
+    function previousSection() {
+        const current = document.getElementById(`section${currentSection}`);
+        const previous = document.getElementById(`section${currentSection - 1}`);
+
+        if (previous) {
+            current.style.display = 'none';
+            previous.style.display = 'block';
+            currentSection--;
+            updateButtons();
+        }
+    }
+
+    // Function to reveal a specific section based on section number
+    function goToSection(sectionNumber) {
+        document.querySelectorAll('.section').forEach(section => section.style.display = 'none');
+        const targetSection = document.getElementById(`section${sectionNumber}`);
+        targetSection.style.display = 'block';
+        
+        currentSection = sectionNumber;
+        updateButtons();
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        // Attach event listeners to ToC links
+        document.querySelectorAll('.table-of-contents a').forEach((link) => {
+            link.addEventListener('click', (event) => {
+                event.preventDefault();
+                const targetId = link.getAttribute('href').substring(1);
+                const targetSection = document.querySelector(`#${targetId}`).closest('.section');
+                const sectionNumber = targetSection.id.replace('section', '');
+                goToSection(parseInt(sectionNumber, 10));
+            });
+        });
+    });
+
+    // Initial button update
+    updateButtons();
+</script>

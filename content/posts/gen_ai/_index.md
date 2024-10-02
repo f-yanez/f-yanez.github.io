@@ -3,5 +3,5 @@ title: GenAI Made Simple
 menu:
   sidebar:
     name: GenAI Made Simple
-    identifier: gen_ia
+    identifier: gen_ai
 ---
