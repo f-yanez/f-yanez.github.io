@@ -10,7 +10,7 @@ menu:
     weight: 20240930
 hero: hero.webp
 tags: ["IA Generativa", "Inteligencia Artificial", "Viaje de la IA", "Exploración", "Aprendizaje"]
-categories: ["Tecnología", "IA en la Vida Diaria", "Mejora Personal"]
+categories: ["Semana 1", "Tecnología", "IA en la Vida Diaria", "Mejora Personal"]
 summary: "Una introducción a la IA Generativa, enfocándose en el aprendizaje y la exploración para integrarla en la vida diaria."
 ---
 
