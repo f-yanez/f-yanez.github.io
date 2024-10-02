@@ -24,15 +24,15 @@ summary: "Una guía práctica para usar la IA Generativa en la toma de decisione
 
 ¡Bienvenido a nuestra primera guía práctica! Tal como discutimos en el artículo del lunes, explorar la GenAI se trata de encontrar nuevas formas de integrarla en nuestra vida diaria. Cada jueves, profundizaremos en un problema real que la GenAI puede ayudarnos a resolver, utilizando ejemplos prácticos y prompts para poner los nuevos conocimientos en acción. Así es como abordaremos cada guía:
 
-1. **Definiremos el Problema y Por Qué la GenAI Puede Solucionarlo:** Exploraremos un desafío genérico y por qué la IA puede ser tu compañera perfecta para abordarlo.
-2. **Presentar la Herramienta de Indicación de la Semana:** Destacaremos una herramienta específica para mejorar tus interacciones con la IA. Esta semana, se trata de **escenarios de juego de roles**.
-3. **Recorrer el Caso de Uso:** Te mostraremos un ejemplo del mundo real para que puedas poner en práctica esta herramienta de inmediato.
+1. **Definiremos el Problema y Por Qué la GenAI Puede Solucionarlo:** Exploraremos un desafío genérico y por qué la IA puede ser la compañera perfecta para abordarlo.
+2. **Presentaremos la Herramienta de Prompts de la Semana:** Destacaremos una herramienta específica para mejorar tus interacciones con la IA. Esta semana, se trata de **escenarios de juego de roles**.
+3. **Recorreremos el Caso de Uso:** Te mostraremos un ejemplo del mundo real para que puedas poner en práctica esta herramienta de inmediato.
 
 Hoy, estamos ampliando la discusión del lunes al sumergirnos en un caso práctico: cómo la IA Generativa puede guiarnos en la toma de decisiones.
 
 {{< vs 6 >}}
 
-## Desbloqueando la IA para las Decisiones Diarias: Una Herramienta Revolucionaria
+## Desbloqueando la IA para las Decisiones Diarias: Una Herramienta Innovadora
 
 ### El Problema: Enfrentar lo Desconocido y Lidiar con la Fatiga Decisiva
 
