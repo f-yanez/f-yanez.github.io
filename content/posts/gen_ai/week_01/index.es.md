@@ -6,13 +6,17 @@ menu:
   sidebar:
     name: Comenzando el Viaje con la IA
     identifier: comenzando_el_viaje_con_la_ia
-    parent: gen_ai
+    parent: gen_ia
     weight: 20240930
 hero: hero.webp
 tags: ["IA Generativa", "Inteligencia Artificial", "Viaje de la IA", "Exploración", "Aprendizaje"]
 categories: ["Tecnología", "IA en la Vida Diaria", "Mejora Personal"]
 summary: "Una introducción a la IA Generativa, enfocándose en el aprendizaje y la exploración para integrarla en la vida diaria."
 ---
+
+<p style="text-align: right;">
+<em>Imagen generada por DALL-E.</em>
+</p>
 
 ## Qué es la IA Generativa y Por Qué Importa
 
@@ -27,7 +31,7 @@ Sin embargo, seamos claros: la GenAI no es una caja mágica que entrega producto
 Usar la GenAI de manera efectiva se trata menos de "dominarla" y más de aprender a discernir qué funciona y qué no. Se trata de evaluar su salida, examinar los resultados y redirigirla cuando se desvía. Ahí es donde reside la verdadera habilidad.
 
 #### Accesibilidad y las Cualidades Humanas de la GenAI
-La verdadera belleza de la GenAI radica en su accesibilidad. Piensa en la persona más inteligente que conozcas; ahora imagina combinar eso con la amabilidad de un amigo que siempre está dispuesto a ayudar y la sabiduría de un mentor que quiere que seas mejor. Así es la GenAI, en resumen. Claro, tiene sus peculiaridades y malentendidos a veces, al igual que cualquiera de nosotros. Pero siempre está disponible, lista para asistirnos, ya sea que rstemos generando ideas, redactando un correo electrónico o explorando un nuevo pasatiempo.
+La verdadera belleza de la GenAI radica en su accesibilidad. Piensa en la persona más inteligente que conozcas; ahora imagina combinar eso con la amabilidad de un amigo que siempre está dispuesto a ayudar y la sabiduría de un mentor que quiere que seas mejor. Así es la GenAI, en resumen. Claro, tiene sus peculiaridades y malentendidos a veces, al igual que cualquiera de nosotros. Pero siempre está disponible, lista para asistirnos, ya sea que estemos generando ideas, redactando un correo electrónico o explorando un nuevo pasatiempo.
 
 Aquí tienes un ejemplo rápido: Digamos que estás planeando unas vacaciones familiares, pero te sientes abrumado con todos los detalles. Con una simple instrucción, la GenAI puede ayudarte a generar un itinerario completo, con sugerencias de viaje, opciones de alojamiento e ideas de actividades basadas en tus preferencias. Luego, puedes revisar y ajustar ese itinerario para adaptarlo a tus necesidades exactas. Es como tener un planificador de viajes a tu disposición, dándote un empujón para que te enfoques en disfrutar el viaje en lugar de estresarte con los detalles.
 
@@ -46,4 +50,8 @@ Los lunes, nos centraremos en artículos de formato largo que profundizan en tem
 
 Juntos, exploraremos cómo descubrir formas detalladas de dar vida a tus ideas, utilizando la GenAI como una poderosa extensión de tu propia creatividad y habilidades para resolver problemas.
 
-_Imagen generada por DALL-E._
+<div style="text-align: right;">
+    <button onclick="location.href='/posts/your-post-slug/'" style="padding: 10px 20px; background-color: #0891b2; color: white; border: none; border-radius: 5px; cursor: pointer;">
+        Práctica Semanal
+    </button>
+</div>
