@@ -6,10 +6,10 @@ menu:
   sidebar:
     name: Comenzando el Viaje con la IA
     identifier: comenzando_el_viaje_con_la_ia
-    parent: gen_ia
+    parent: gen_ia_semana_1
     weight: 20240930
 hero: hero.webp
-tags: ["IA Generativa", "Inteligencia Artificial", "Viaje de la IA", "Exploración", "Aprendizaje"]
+tags: ["Semana 1", "IA Generativa", "Inteligencia Artificial", "Viaje de la IA", "Exploración", "Aprendizaje"]
 categories: ["Semana 1", "Tecnología", "IA en la Vida Diaria", "Mejora Personal"]
 summary: "Una introducción a la IA Generativa, enfocándose en el aprendizaje y la exploración para integrarla en la vida diaria."
 ---
@@ -50,8 +50,8 @@ Los lunes, nos centraremos en artículos de formato largo que profundizan en tem
 
 Juntos, exploraremos cómo descubrir formas detalladas de dar vida a tus ideas, utilizando la GenAI como una poderosa extensión de tu propia creatividad y habilidades para resolver problemas.
 
-<div style="text-align: right;">
-    <button onclick="location.href='/posts/your-post-slug/'" style="padding: 10px 20px; background-color: #0891b2; color: white; border: none; border-radius: 5px; cursor: pointer;">
-        Práctica Semanal
-    </button>
-</div>
+
+
+
+
+{{< weekly-button path="/es/posts/gen_ai/week_01/tutorial/" text="Práctica Semanal" >}}

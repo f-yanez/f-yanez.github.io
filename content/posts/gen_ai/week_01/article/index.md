@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: Starting the AI Journey
     identifier: starting_the_ai_journey
-    parent: gen_ai
+    parent: gen_ai_week_1
     weight: 20240930
 hero: hero.webp
 tags: ["Week 1", "Generative AI", "Artificial Intelligence", "AI Journey", "Exploration", "Learning"]
@@ -53,4 +53,4 @@ Together, we’ll explore how to discover nuanced ways to bring your ideas to li
 
 
 
-{{< hands-on-button path="/posts/gen_ai/week_01_tutorial/" >}}
+{{< weekly-button path="/posts/gen_ai/week_01/tutorial/" text="Weekly Hands-On" >}}
