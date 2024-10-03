@@ -22,7 +22,7 @@ summary: "Una guía práctica para usar la IA Generativa en la toma de decisione
 
 
 ## Antes de Empezar
-¡Bienvenido a nuestra primera guía práctica! Hoy estamos ampliando la [discusión del lunes](/es/posts/gen_ai/week_01/article/) explorando como usar **IA Generativa para tomar decisiones mejores y más informadas**. Ya sea que te sientas abrumado por las opciones o simplemente no estés seguro por dónde empezar, la IA puede ser el compañero que necesitas.
+¡Bienvenido a nuestra primera guía práctica! Hoy estamos ampliando la [discusión del lunes](/es/posts/gen_ai/week_01/article/) explorando cómo usar **IA Generativa para tomar decisiones mejores y más informadas**. Ya sea que te sientas abrumado por las opciones o simplemente no estés seguro por dónde empezar, la IA puede ser el compañero que necesitas.
 
 
 
