@@ -18,6 +18,8 @@ summary: "A beginner-friendly introduction to Generative AI, focusing on learnin
 <em>Image by DALL-E.</em>
 </p>
 
+{{< sign-in-button >}}
+
 ## What Generative AI Is and Why It Matters
 
 #### Why Generative AI Matters to Everyday Life

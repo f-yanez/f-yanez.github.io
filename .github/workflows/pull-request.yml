@@ -35,7 +35,9 @@ jobs:
         hugo mod tidy
 
     - name: Install Node Modules
-      run: npm install
+      run: |
+        npm install
+        npm install firebase
 
     - name: Clean Public Directory
       run: |
