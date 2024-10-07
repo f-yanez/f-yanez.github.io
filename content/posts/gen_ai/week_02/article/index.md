@@ -1,6 +1,6 @@
 ---
 title: "Exploring Everyday AI Tools"  
-date: 2024-10-05
+date: 2024-10-07
 description: Highlighting AI tools you can use right now for simple, everyday tasks—like drafting an email, brainstorming ideas, or automating small tasks.  
 menu:  
   sidebar:  
