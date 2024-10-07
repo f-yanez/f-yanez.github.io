@@ -1,6 +1,6 @@
 ---
 title: "Explorando Herramientas de IA para el Día a Día"  
-date: 2024-10-05
+date: 2024-10-07
 description: Resaltando herramientas de IA que puedes usar ahora mismo para tareas simples y cotidianas—como redactar un correo electrónico, generar ideas o automatizar pequeñas tareas.  
 menu:  
   sidebar:  
