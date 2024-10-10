@@ -39,7 +39,7 @@ Imagina tener un compañero digital que pueda ayudarte a aprender algo nuevo, ge
 
 {{< vs 1 >}}
 
-### 1. **ChatGPT – Tu Compañero Conversacional**
+### 1. ChatGPT – Tu Compañero Conversacional
 - **Descripción:** ChatGPT es como tener un asistente creativo que puede ayudarte a organizar tus pensamientos, redactar correos electrónicos, generar ideas o incluso responder preguntas que puedas tener. No se trata de reemplazar tu aporte, sino de mejorarlo. Por ejemplo, si estás atascado aprendiendo un nuevo concepto, ChatGPT puede proporcionar más información, dejando que seas tú quien decida cuán profundo quieres llegar.
 - **Cuenta:** No es necesario tener la cuenta pro, sobre todo si estás empezando. La versión gratuita actual es bastante impresionante de todas maneras. **Nota de Privacidad:** Si la privacidad te preocupa, OpenAI te permite desactivar la memoria de ChatGPT en la [configuración de personalización](https://chatgpt.com/#settings/Personalization) e incluso tener ["chats temporales"](https://chatgpt.com/?temporary-chat=true) haciendo clic en la esquina superior izquierda donde aparece el nombre del modelo y activando la opción "Temporary chat."
 
@@ -85,7 +85,7 @@ Imagina tener un compañero digital que pueda ayudarte a aprender algo nuevo, ge
   </p>
 
 
-### 2. **Grammarly – Tu Asistente de Escritura**
+### 2. Grammarly – Tu Asistente de Escritura
 - **Descripción:** [Grammarly](https://app.grammarly.com/) te ayuda a pulir tu escritura **en inglés** sugiriendo cambios de gramática, tono y claridad. Piénsalo como tener un editor a tu lado, asegurando que tu mensaje **en inglés** se comunique de la manera en que lo pretendías. No se limita solo a una plataforma—puedes usar Grammarly en varios dispositivos y aplicaciones, lo que lo convierte en una herramienta versátil para las tareas diarias.
 - **Casos de Uso:** Revisar correos electrónicos, refinar publicaciones en redes sociales, editar documentos e incluso verificar el tono en aplicaciones de mensajes.
 - **Primeros Pasos:** Copia y pega el borrador de un correo electrónico en Grammarly, y observa cómo sugiere cambios como “Considera cambiar esta palabra para hacer tu tono más amigable.” Tú sigues teniendo el control del mensaje final, eligiendo qué sugerencias aceptar.
