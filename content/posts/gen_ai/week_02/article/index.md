@@ -113,4 +113,4 @@ Pick one of the tools we’ve highlighted and experiment with it for a simple ta
 
 
 
-[{{< weekly-button path="/posts/gen_ai/week_01/tutorial/" text="Weekly Hands-On" >}}]: #
+{{< weekly-button path="/posts/gen_ai/week_02/tutorial/" text="Weekly Hands-On" >}}
