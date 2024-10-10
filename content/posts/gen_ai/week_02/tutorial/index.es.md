@@ -4,7 +4,7 @@ date: 2024-10-10
 description: Descubre cómo usar la IA Generativa como herramienta de reflexión personal y toma de decisiones  
 menu:  
   sidebar:  
-    name: Usando IA para Reflexionar  
+    name: En Acción - Usando IA para Reflexionar  
     identifier: ia_para_reflexionar  
     parent: gen_ia_semana_2
     weight: 20241010   
