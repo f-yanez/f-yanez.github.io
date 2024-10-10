@@ -113,4 +113,4 @@ Elige una de las herramientas que hemos destacado y pruébala para una tarea sim
 **Jueves en Práctica:** Profundizaremos en **“En Acción:¨Manos a la obra con herramientas de IA (Edición y lluvia de ideas)”** para llevar nuestro viaje al siguiente nivel.
 
 
-[{{< weekly-button path="/es/posts/gen_ai/week_01/tutorial/" text="Práctica Semanal" >}}]: #
+{{< weekly-button path="/es/posts/gen_ai/week_02/tutorial/" text="Práctica Semanal" >}}

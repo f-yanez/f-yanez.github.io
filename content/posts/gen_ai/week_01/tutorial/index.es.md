@@ -9,7 +9,7 @@ menu:
     parent: gen_ia_semana_1  
     weight: 20241003  
 hero: hero.webp  
-tags: ["Semana 1", "IA Generativa", "Inteligencia Artificial", "Viaje de la IA", "Exploración", "Aprendizaje"]  
+tags: ["Semana 1", "IA Generativa", "Toma de Decisiones", "Exploración", "Aprendizaje"]  
 categories: ["Tecnología", "IA en la Vida Diaria", "Mejora Personal"]  
 summary: "Una guía práctica para usar la IA Generativa en la toma de decisiones, centrándose en juego de roles para adaptar las respuestas a las necesidades individuales."  
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Title"  
+title: "Hands-On: Title"  
 date: 2024-10-03
 description: Description  
 menu:  
