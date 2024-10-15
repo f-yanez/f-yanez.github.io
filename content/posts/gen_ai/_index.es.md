@@ -1,7 +1,7 @@
 ---
-title: GenIA Simplificado
+title: GenAI Simplificado
 menu:
   sidebar:
-    name: GenIA Simplificado
+    name: GenAI Simplificado
     identifier: gen_ia
 ---

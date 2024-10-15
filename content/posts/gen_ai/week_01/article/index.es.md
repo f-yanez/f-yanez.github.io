@@ -18,6 +18,8 @@ summary: "Una introducción a la IA Generativa, enfocándose en el aprendizaje y
 <em>Imagen generada por DALL-E.</em>
 </p>
 
+{{< subscribe-button sub_text="Suscribirme" email_text="Tu correo electrónico" send_text="Enviar" >}}
+
 ## Qué es la IA Generativa y Por Qué Importa
 
 

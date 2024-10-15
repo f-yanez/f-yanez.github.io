@@ -18,6 +18,8 @@ summary: "A guide to beginner-friendly AI tools that act as digital companions, 
 <em>Image by DALL-E.</em>
 </p>
 
+{{< subscribe-button sub_text="Subscribe" email_text="Enter your email" send_text="Submit" >}}
+
 
 
 ## Getting Started the Easy Way

@@ -19,6 +19,8 @@ draft: false
 <em>Imagen generada por DALL-E.</em>
 </p>
 
+{{< subscribe-button sub_text="Suscribirme" email_text="Tu correo electrónico" send_text="Enviar" >}}
+
 
 ## ChatGPT como tu Coach Personal
 

@@ -18,6 +18,8 @@ summary: "Una guía práctica para usar la IA Generativa en la toma de decisione
 <em>Imagen generada por DALL-E.</em>
 </p>
 
+{{< subscribe-button sub_text="Suscribirme" email_text="Tu correo electrónico" send_text="Enviar" >}}
+
 
 
 

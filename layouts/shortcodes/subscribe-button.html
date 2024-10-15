@@ -1,0 +1,18 @@
+<script>
+    const sub_text = "{{ .Get "sub_text" | default '/' }}";
+    const send_text = "{{ .Get "send_text" | default '/' }}";
+</script>
+
+<div class="subscribe-container" style="display: flex; justify-content: center; align-items: center;">
+    <button id="subscribeBtn" class="subscribe-btn" style="padding: 10px 20px; background-color: #0891b2; color: white; border: none; border-radius: 5px; cursor: pointer;" >
+    <script>document.write(sub_text);</script>
+    </button>
+
+    <!-- Subscription bubble -->
+    <div id="subscribeBubble" class="subscribe-bubble" style="display: none; position: relative; padding: 10px; border-radius: 10px; z-index: 1000; flex-direction: column; align-items: center;">
+        <input type="email" id="emailInput" placeholder="{{ .Get "email_text" | default "Enter your email" }}" style="margin-bottom: 10px; padding: 10px; width: 100%; max-width: 300px;">
+        <button id="submitEmail" class="submit-btn" style="padding: 10px 20px; background-color: #0891b2; color: white; border: none; border-radius: 5px; cursor: pointer;" >
+        <script>document.write(send_text);</script>
+        </button>
+    </div>
+</div>

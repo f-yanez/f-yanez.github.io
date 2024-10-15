@@ -18,6 +18,8 @@ summary: "A hands-on guide to using Generative AI to make better decisions, focu
 <em>Image by DALL-E.</em>
 </p>
 
+{{< subscribe-button sub_text="Subscribe" email_text="Enter your email" send_text="Submit" >}}
+
 
 ## Before We Start
 Welcome to our first hands-on guide! Today, we're building on [Monday's discussion](/posts/gen_ai/week_01/article/) by exploring how to use **Generative AI for better, more informed decision-making**. Whether you’re feeling overwhelmed by choices or simply unsure where to start, AI can be the thinking partner you need.
