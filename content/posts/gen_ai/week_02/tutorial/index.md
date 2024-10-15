@@ -20,6 +20,8 @@ draft: false
 <em>Image by DALL-E.</em>
 </p>
 
+{{< subscribe-button sub_text="Subscribe" email_text="Enter your email" send_text="Submit" >}}
+
 
 ## ChatGPT as Your Life Coach
 

@@ -2,6 +2,8 @@
 <html lang="{{ .Site.Language.Lang }}">
   <head>
     <script type="text/javascript" data-cmp-ab="1" src="https://cdn.consentmanager.net/delivery/autoblocking/ccc40b4c01cac.js" data-cmp-host="d.delivery.consentmanager.net" data-cmp-cdn="cdn.consentmanager.net" data-cmp-codesrc="16"></script>
+    <script src="{{ "files/substack.js" | relURL }}"></script>
+
     <title>{{ .Page.Title }}</title>
     <!------ ADD COMMON HEADERS -------->
     {{- partial "header.html" . -}}

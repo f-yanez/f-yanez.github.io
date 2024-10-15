@@ -19,6 +19,8 @@ summary: "Una guía de herramientas de IA aptas para principiantes que actúan c
 <em>Imagen generada por DALL-E.</em>
 </p>
 
+{{< subscribe-button sub_text="Suscribirme" email_text="Tu correo electrónico" send_text="Enviar" >}}
+
 
 
 ## Empezando de la Manera Fácil
