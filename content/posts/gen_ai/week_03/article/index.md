@@ -127,3 +127,5 @@ Once you get started with automating your daily tasks for small wins, you can al
 ### Your Turn: Try it Out!
 
 What if yo started today? Pick one of the examples above—or any other—and give it a try with <a href="https://chatgpt.com">ChatGPT</a>. Remember you can always [set the role you want it to take](/posts/gen_ai/week_01/tutorial/) and the [tone you want it to use](/posts/gen_ai/week_02/tutorial/). You might be surprised at how much mental space you can save!
+
+{{< weekly-button path="/posts/gen_ai/week_03/tutorial/" text="Weekly Hands-On" >}}
