@@ -4,7 +4,7 @@ date: 2024-10-10
 description: Discover how to use GenAI as a reflective tool for personal growth and decision-making  
 menu:  
   sidebar:  
-    name: Using AI for Personal Reflection  
+    name: Hands-On - Using AI for Personal Reflection  
     identifier: ai_for_personal_reflection  
     parent: gen_ai_week_2
     weight: 20241010   

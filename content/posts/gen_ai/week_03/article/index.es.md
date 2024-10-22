@@ -120,3 +120,5 @@ Una vez que comiences a automatizar tus tareas diarias para obtener pequeños lo
 ### Tu Turno: ¡Pruébalo!
 
 ¿Qué tal si comienzas hoy? Elige uno de los ejemplos anteriores—o cualquier otro—y pruébalo con <a href="https://chatgpt.com">ChatGPT</a>. Recuerda que siempre puedes [asignarle un rol específico](/es/posts/gen_ai/week_01/tutorial/) y [pedirle que adopte un tono determinado](/es/posts/gen_ai/week_02/tutorial/). Te sorprenderá cuánto espacio mental puedes liberar.
+
+{{< weekly-button path="/es/posts/gen_ai/week_03/tutorial/" text="Práctica Semanal" >}}

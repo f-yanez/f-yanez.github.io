@@ -6,7 +6,7 @@ menu:
   sidebar:  
     name: Name  
     identifier: name_id  
-    parent: gen_ai_semana_X
+    parent: gen_ia_semana_X
     weight: 20241003  
 hero: hero.webp  
 tags: ["Semana 2", "tags"]  
