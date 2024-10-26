@@ -113,3 +113,5 @@ La próxima vez que nos enfrentemos a una página en blanco, probemos trabajar c
 ¿Qué estás escribiendo ahora? ¿Y si intentas usar la IA Generativa para generar algunas nuevas ideas o diálogos para tu historia? Ve a [ChatGPT](https://chatgpt.com) y prueba qué chispa creativa puede aportar a tu flujo de trabajo. Recuerda, no se trata de que la IA haga el trabajo por nosotros—se trata de trabajar *con* la IA para explorar nuevas posibilidades.
 
 **Próxima Entrega del Jueves**: Nos sumergiremos en **Cómo Crear un Cuento Personalizado para la Hora de Dormir Usando IA**. ¡No te lo pierdas!
+
+{{< weekly-button path="/es/posts/gen_ai/week_04/tutorial/" text="Práctica Semanal" >}}

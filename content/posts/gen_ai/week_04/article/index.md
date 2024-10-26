@@ -118,3 +118,4 @@ What are you working on right now? Why not try using GenAI to generate some new 
 **Coming Up on Thursday**: We’ll dive into **How to Create a Personalized Bedtime Story Using AI**. Stay tuned!
 
 
+{{< weekly-button path="/posts/gen_ai/week_04/tutorial/" text="Weekly Hands-On" >}}
