@@ -30,7 +30,7 @@ Comenzar a usar IA Generativa (GenAI) es un poco como reencontrarse con un amigo
 A continuación, comparto seis errores comunes que yo y otros hemos cometido en este camino. Cada uno viene con una solución práctica que hará de tu experiencia con GenIA algo mucho más fluido.
 
 
-{{< vs 1 >}}  
+{{< vs 3 >}}  
 
 
 ### 1. Esperar Perfección de la GenIA
@@ -40,7 +40,7 @@ Imagina que nuestro amigo de la escuela, ahora un experto, ha vuelto para ayudar
 **Solución:** Piensa en GenAI como un socio, no como una solución perfecta. Revisa sus sugerencias, especialmente en temas importantes. Igual que con los consejos de un amigo, verifica sus respuestas y úsalas como punto de partida. Si encuentras un error, tómalo con calma: corrige y sigue conversando. Esto ayuda a mantener nuestra confianza en ese potencial de la IA sin expectativas irreales.
 
 
-{{< vs 1 >}}
+{{< vs 3 >}}
 
 
 ### 2. No Dar Suficiente Contexto
@@ -50,7 +50,7 @@ Un error común es esperar respuestas relevantes con una pregunta a medias, como
 **Solución:** Proporciónale a GenAI algunas pistas para guiar su respuesta. En vez de “¿Qué debería hacer hoy?”, intenta algo más específico como “Estoy de visita en Nueva York, me gusta la historia y quiero evitar lugares que tengan mucha gente.” Al incluir preferencias, ubicación o metas, recibirás respuestas más personalizadas. Es como tener una conversación con un amigo: dale el contexto adecuado, y te sorprenderá con respuestas relevantes y útiles.
 
 
-{{< vs 1 >}}  
+{{< vs 3 >}}  
 
 
 ### 3. Limitar el Uso de GenAI por Miedo a la Privacidad  
@@ -60,7 +60,7 @@ Es natural tener dudas sobre la privacidad y evitar compartir mucho con GenAI, p
 **Solución:** Desactiva la memoria o funciones de aprendizaje y evita incluir información sensible. Es como en redes sociales o apps de mensajes: usa la GenIA de forma general y evita dar datos personales. La mayoría de herramientas de GenAI tienen opciones para no guardar tus datos a largo plazo—similar a usar el “modo incógnito” en el navegador. Así puedes aprovechar la GenIA sin preocupaciones.
 
 
-{{< vs 1 >}}  
+{{< vs 3 >}}  
 
 
 ### 4. Terminar la Conversación Demasiado Rápido  
@@ -70,7 +70,7 @@ Un error común es no aprovechar las respuestas iterativas de la GenAI. A veces,
 **Solución:** Usa preguntas adicionales para acercarte más a la respuesta que buscas. Si la primera respuesta no es la esperada, pide una aclaración o guía la conversación con preguntas como “¿Podrías explicarlo en términos más simples?” Un poco de iteraciones ayuda a refinar las respuestas de GenAI. Al mantener la conversación, verás cómo los resultados se vuelven cada vez más significativos.
 
 
-{{< vs 1 >}}  
+{{< vs 3 >}}  
 
 
 ### 5. Esperar Respuestas Complejas Totalmente Estructuradas  
@@ -82,7 +82,7 @@ Por ejemplo, un amigo abogado me comentó que no usa GenAI para estructurar todo
 **Solución:** En lugar de esperar una respuesta completa, usa GenAI para recibir retroalimentación, sugerencias de estructura o ideas iniciales que puedas perfeccionar tú mismo. Este enfoque funciona bien en áreas donde la experiencia es crucial. Es como obtener una segunda opinión que resalta posibles mejoras en lugar de entregarte un producto profesional final.
 
 
-{{< vs 1 >}}  
+{{< vs 3 >}}  
 
 
 ### 6. No Definir Claramente el Objetivo de la Tarea  
@@ -92,7 +92,7 @@ A veces, comenzamos una conversación con GenAI y asumimos que ya entiende lo qu
 **Solución:** Asegúrate de que la GenAI entienda tus objetivos antes de comenzar. Una forma de hacer esto es pedirle que resuma lo que cree que estás buscando. Por ejemplo, dile: “¿Puedes resumir la tarea en la que estamos trabajando?” o pídele, “¿Qué preguntas te ayudarían a entender mejor esta tarea?” Esto te permite confirmar que GenAI está interpretando correctamente y resolver cualquier confusión al inicio. Con objetivos claros, podrás guiar a la IA para obtener respuestas alineadas con lo que necesitas.
 
 
-{{< vs 1 >}}  
+{{< vs 3 >}}  
 
 
 ### Reflexiones Finales: Navegando en Tu Camino con GenAI  
