@@ -95,7 +95,8 @@ A veces, comenzamos una conversación con GenAI y asumimos que ya entiende lo qu
 {{< vs 3 >}}  
 
 
-### Reflexiones Finales: Navegando en Tu Camino con GenAI  
+## Reflexiones Finales: Navegando en Tu Camino con GenAI  
 
 La mejor manera de hacer de la GenAI un compañero productivo en tu rutina es abordarlo con una mentalidad de aprendizaje y una comunicación clara. No esperas que un amigo sea perfecto, así que trata a la GenAI con la misma paciencia. Con los prompts adecuados, contexto y expectativas realistas, la IA puede ser un excelente socio para todo, desde la lluvia de ideas hasta resolver desafíos complejos.
 
+{{< weekly-button path="/es/posts/gen_ai/week_05/tutorial/" text="Práctica Semanal" >}}
