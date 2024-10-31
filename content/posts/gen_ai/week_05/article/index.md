@@ -99,3 +99,4 @@ Sometimes, users start working with GenAI and assume it understands what they’
 The best way to make GenAI a productive part of your routine is to approach it with a learning mindset and clear communication. You don’t expect a human friend to be perfect, so approach GenAI with the same patience. With the right prompts, context, and realistic expectations, it can be an excellent partner for everything from brainstorming to solving complex challenges. 
 
 
+{{< weekly-button path="/posts/gen_ai/week_05/tutorial/" text="Weekly Hands-On" >}}
