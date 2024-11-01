@@ -25,7 +25,7 @@ draft: false
 
 ## GenAI as a Learning Companion
 
-When we start integrating our use of GenAI in our daily lives, it is easy to fall in common mistakes—as we saw on [Monday's article](/posts/gen_ai/week_05/article/). For instance, when learning something new, it’s easy to get limited answers from search engines or even GenAI if we don’t ask the right follow-up questions. This hands-on guide explores how using **iterative feedback with GenAI**—a little like having a conversation with an incredibly knowledgeable friend, a _**Thinking Buddy**_, if you will—can elevate your learning experience. Rather than stopping at the first response, we’ll use feedback to ask clarifying questions, refine answers, and dig deeper into complex ideas.
+When we start integrating our use of GenAI into our daily lives, it is easy to fall into common mistakes—as we saw in [Monday's article](/posts/gen_ai/week_05/article/). For instance, when learning something new, it’s easy to get limited answers from search engines or even GenAI if we don’t ask the right follow-up questions. This hands-on guide explores how using **iterative feedback with GenAI**—a little like having a conversation with an incredibly knowledgeable friend, a _**Thinking Buddy**_, if you will—can elevate your learning experience. Rather than stopping at the first response, we’ll use feedback to ask clarifying questions, refine answers, and dig deeper into complex ideas.
 
 Today’s focus is **habit formation** as our learning topic, but feel free to adapt this process to anything you’re curious about!
 
@@ -131,7 +131,7 @@ Once you’ve refined your learning experience, you can ask your _**Thinking Bud
 In our example, it can be helpful to track your progress in a structured format to help you build a reading habit. Creating a habit tracker with a table outlining your routine makes it easy to see your commitment in action, day by day. Here’s how to build a tracker with GenAI and export it for easy access.
 
 {{< copyable >}}
-Now let's generate a spreadsheet in table format for a reading habit tracker that I can download. Include columns for ‘Day,’ ‘Reading Time (mins),’ ‘Book Title/Chapter,’ ‘Goal Met? (Yes/No),’ and ‘Notes.’ Also, add a section at the top with my reading routine: I will read 10 minutes every evening after dinner, and I'll check in weekly to track my progress.
+Now let's generate a spreadsheet in table format for a reading habit tracker that I can download. Include columns for ‘Day,’ ‘Reading Time (mins),’ ‘Book Title/Chapter,’ ‘Goal Met? (Yes/No),’ and ‘Notes.’ Also, add a section at the top with my reading routine: I will read for 10 minutes every evening after dinner, and I'll check in weekly to track my progress.
 {{< /copyable >}}
 
 <p style="text-align: right;">

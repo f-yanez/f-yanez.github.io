@@ -1,7 +1,7 @@
 ---
-title: GenAI Made Simple
+title: The GenAI Edge - Stay Sharp. Stay Ahead.
 menu:
   sidebar:
-    name: GenAI Made Simple
+    name: The GenAI Edge
     identifier: gen_ai
 ---
