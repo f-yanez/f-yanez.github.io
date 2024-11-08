@@ -163,3 +163,5 @@ See [Week 5’s tutorial](/posts/gen_ai/week_05/tutorial/) on using iterative fe
 Understanding what GenAI can and can’t do makes it a far more powerful tool in your toolkit. Instead of expecting it to do everything, view it as a capable assistant that can handle specific tasks with your guidance. Whether you’re exploring new ideas, drafting content, or automating routine tasks, GenAI works best when it’s integrated thoughtfully into your workflow.
 
 Rely on your _**Thinking Buddy**_ as a support system that augments your capabilities—and remember, it’s a learning journey. When we approach GenAI with realistic expectations, we can unlock its full potential without disappointment.
+
+{{< weekly-button path="/posts/gen_ai/week_06/tutorial/" text="Weekly Hands-On" >}}
