@@ -155,3 +155,5 @@ Consulta el [tutorial de la Semana 5](/es/posts/gen_ai/week_05/tutorial/), donde
 Comprender lo que GenAI puede y no puede hacer lo convierte en una herramienta aún más poderosa. En lugar de esperar que lo haga todo, considerémoslo como un asistente capaz que puede manejar tareas específicas con nuestra guía. Ya sea que estemos explorando ideas nuevas, redactando contenido o automatizando tareas cotidianas, GenAI funciona mejor cuando se integra de manera consciente en nuestro flujo de trabajo.
 
 Confía en tu _**Compañero de Ideas**_ como un sistema de apoyo que complementa tus capacidades—y recuerda, es un camino de aprendizaje. Cuando nos acercamos a GenAI con expectativas realistas, podemos desbloquear su potencial sin decepcionarnos.
+
+{{< weekly-button path="/es/posts/gen_ai/week_06/tutorial/" text="Práctica Semanal" >}}
