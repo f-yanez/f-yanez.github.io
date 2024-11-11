@@ -5,5 +5,5 @@ menu:
     name: Week 7
     identifier: gen_ai_week_7
     parent: gen_ai
-draft: true
+draft: false
 ---
