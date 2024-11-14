@@ -110,3 +110,5 @@ Tengamos una conversación sobre "mi definición de éxito" y cómo se alinea co
 GenAI puede ser más que una herramienta de productividad; puede ser un compañero para la autoexploración. Al usarlo para guiar preguntas y conversaciones reflexivas, creas un espacio para el crecimiento que ofrece una experiencia diferente a los métodos tradicionales. Úsalo como tu _**Compañero de Ideas**_, ayudándote a mapear tus valores, desafiar tus suposiciones y alinear tus acciones con tus aspiraciones a largo plazo.
 
 **Tu Turno**: Tómate unos minutos esta semana para probar uno de estos prompts y descubre los insights que GenAI puede aportar a tu viaje de autoexploración.
+
+{{< weekly-button path="/es/posts/gen_ai/week_07/tutorial/" text="Práctica Semanal" >}}

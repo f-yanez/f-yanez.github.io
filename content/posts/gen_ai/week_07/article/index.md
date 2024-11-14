@@ -113,3 +113,5 @@ Engage me in a conversation about "my definition of success" and how it aligns w
 GenAI can be more than just a productivity tool—it can be a companion for self-exploration. By using it to guide reflective questions and conversations, you create a space for growth that might offer a different experience than traditional methods. Use it as your _**Thinking Buddy**_, helping you map out your values, challenge your assumptions, and align your actions with your long-term aspirations.
 
 **Your Turn**: Take a few moments this week to try one of these prompts and explore what insights GenAI can bring to your journey of self-exploration.
+
+{{< weekly-button path="/posts/gen_ai/week_07/tutorial/" text="Weekly Hands-On" >}}
