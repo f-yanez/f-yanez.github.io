@@ -6,7 +6,7 @@ menu:
   sidebar:  
     name: En Acción - Misión y Visión Personal  
     identifier: en_accion_mision_vision  
-    parent: gen_ai_semana_7  
+    parent: gen_ia_semana_7  
     weight: 20241114  
 hero: hero.webp  
 tags: ["Semana 7", "Auto-reflexión", "GenAI", "Crecimiento Personal"]  
