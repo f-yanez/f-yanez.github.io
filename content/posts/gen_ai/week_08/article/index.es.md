@@ -108,3 +108,5 @@ Encontrar el equilibrio adecuado entre la automatización y la intervención hum
 Trabajar con GenAI en proyectos creativos no se trata de ceder el control; se trata de mejorar tu proceso y ampliar tu alcance creativo. Cuando se usa con cuidado, la IA se convierte en un poderoso aliado que apoya tu trabajo y permite que tu voz brille.
 
 **Tu Turno**: Considera cómo tu _**Compañero de Ideas**_ puede integrarse en tu próximo proyecto. Experimenta con ella como compañero de brainstorming, editor u organizador de proyectos, y encuentra el equilibrio que funcione mejor para tu proceso creativo.
+
+{{< weekly-button path="/es/posts/gen_ai/week_07/tutorial/" text="Práctica Semanal" >}}
