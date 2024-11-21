@@ -108,3 +108,5 @@ Finding the right balance between automation and human input ensures your projec
 Working with GenAI in creative projects isn’t about handing over the reins; it’s about enhancing your process and extending your creative reach. When used thoughtfully, AI becomes a powerful ally that supports your work while letting your voice shine through.
 
 **Your Turn**: Consider how your ***Thinking Buddy*** can be integrated into your next project. Experiment with it as a brainstorming partner, an editor, or a project organizer, and find the balance that works best for your creative process.
+
+{{< weekly-button path="/posts/gen_ai/week_08/tutorial/" text="Weekly Hands-On" >}}
