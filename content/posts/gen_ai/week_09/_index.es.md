@@ -1,9 +1,9 @@
 ---
-title: Semana X
+title: Semana 9
 menu:
   sidebar:
-    name: Semana X
-    identifier: gen_ia_semana_X
+    name: Semana 9
+    identifier: gen_ia_semana_9
     parent: gen_ia
-draft: true
+draft: false
 ---
