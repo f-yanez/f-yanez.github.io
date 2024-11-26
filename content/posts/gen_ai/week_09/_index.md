@@ -1,9 +1,9 @@
 ---
-title: Week X
+title: Week 9
 menu:
   sidebar:
-    name: Week X
-    identifier: gen_ai_week_x
+    name: Week 9
+    identifier: gen_ai_week_9
     parent: gen_ai
-draft: true
+draft: false
 ---
