@@ -157,4 +157,4 @@ Colaborar con GenAI se trata de equilibrio. Organiza, edita y mejora tu trabajo,
 
 **Tu Turno**: Prueba estos prompts para tu próximo proyecto y descubre cómo GenAI puede amplificar tu creatividad.  
 
-{{< weekly-button path="/es/posts/gen_ai/week_08/article/" text="Artículo Semanal" >}}  
+{{< weekly-button path="/es/posts/gen_ai/week_08/article/" text="Artículo Semanal" >}}

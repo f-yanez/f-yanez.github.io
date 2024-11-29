@@ -138,3 +138,5 @@ Aunque GenAI ofrece ventajas significativas, las empresas deben navegar ciertos 
 La IA Generativa no se trata de reemplazar a los humanos, sino de aumentar sus capacidades. Su verdadero potencial radica en la colaboración, donde las empresas tratan a la IA como un socio para la lluvia de ideas, un asistente para tareas repetitivas y una herramienta para inspirar innovación.
 
 **Tu Próximo Paso**: Explora cómo tu _**Compañero de Ideas**_ puede apoyar tu negocio. Comienza con un proyecto pequeño, refina los resultados iterativamente y construye confianza en sus capacidades. No olvides acompañarnos el jueves para una guía práctica sobre cómo implementar GenAI en tus flujos de trabajo.
+
+{{< weekly-button path="/es/posts/gen_ai/week_09/tutorial/" text="Práctica Semanal" >}}
