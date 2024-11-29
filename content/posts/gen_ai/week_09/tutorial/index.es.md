@@ -12,7 +12,7 @@ hero: hero.webp
 tags: ["Semana 9", "Metodología Lean", "Negocios", "Aplicaciones de GenAI"]
 categories: ["Aplicaciones de IA en Negocios", "Innovación"]
 summary: "Descubre cómo aplicar la Metodología Lean a un negocio con GenAI para iterar rápidamente, validar suposiciones y mejorar la eficiencia."
-draft: true
+draft: false
 ---
 
 <p style="text-align: right;">

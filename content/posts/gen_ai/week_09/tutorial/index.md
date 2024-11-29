@@ -12,7 +12,7 @@ hero: hero.webp
 tags: ["Week 9", "Lean Methodology", "Business", "GenAI Applications"]
 categories: ["Business Applications of AI", "Innovation"]
 summary: "Discover how to apply Lean Methodology to a business using GenAI to iterate quickly, validate assumptions, and improve efficiency."
-draft: true
+draft: false
 ---
 
 <p style="text-align: right;">
