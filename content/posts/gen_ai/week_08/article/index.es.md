@@ -109,4 +109,4 @@ Trabajar con GenAI en proyectos creativos no se trata de ceder el control; se tr
 
 **Tu Turno**: Considera cómo tu _**Compañero de Ideas**_ puede integrarse en tu próximo proyecto. Experimenta con ella como compañero de brainstorming, editor u organizador de proyectos, y encuentra el equilibrio que funcione mejor para tu proceso creativo.
 
-{{< weekly-button path="/es/posts/gen_ai/week_07/tutorial/" text="Práctica Semanal" >}}
+{{< weekly-button path="/es/posts/gen_ai/week_08/tutorial/" text="Práctica Semanal" >}}

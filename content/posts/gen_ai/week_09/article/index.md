@@ -132,3 +132,5 @@ While GenAI offers significant advantages, businesses must navigate potential ch
 Generative AI is not about replacing humans but augmenting their abilities. Its true potential lies in collaboration—where businesses treat AI as a brainstorming partner, an assistant for repetitive tasks, and a tool to spark innovation.
 
 **Your Next Step**: Explore how Your ***Thinking Buddy*** can support your business. Start with a small project, refine outputs iteratively, and build confidence in its capabilities. Don't forget to join us on Thursday for a hands-on guide to implementing GenAI in your workflows.
+
+{{< weekly-button path="/posts/gen_ai/week_09/tutorial/" text="Weekly Hands-On" >}}
