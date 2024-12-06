@@ -135,3 +135,5 @@ Aunque GenAI puede mejorar significativamente la planificación estratégica per
 La planificación estratégica no se trata solo de establecer metas: se trata de alinear esas metas con nuestros valores, recursos y las realidades de la vida. GenAI puede mejorar este proceso ampliando nuestra perspectiva, inspirando estrategias creativas y ayudándonos a adaptarnos a los desafíos.
 
 **Tu Turno**: Prueba los prompts de esta guía para pensar en grande, adaptarte estratégicamente y planificar de manera más efectiva. Deja que tu _**Compañero de Ideas**_ te guíe a través de las complejidades del crecimiento personal y el éxito.
+
+{{< weekly-button path="/es/posts/gen_ai/week_10/tutorial/" text="Práctica Semanal" >}}
