@@ -136,3 +136,5 @@ While GenAI can significantly enhance personal strategic planning, it's importan
 Strategic planning isn't just about setting goals—it's about aligning those goals with your values, resources, and the realities of life. GenAI can enhance this process by expanding your perspective, inspiring creative strategies, and helping you adapt to challenges.
 
 **Your Turn**: Use the prompts in this guide to think bigger, adapt strategically, and plan more effectively. Let your ***Thinking Buddy*** guide you through the complexities of personal growth and success.
+
+{{< weekly-button path="/posts/gen_ai/week_10/article/" text="Weekly Article" >}}
