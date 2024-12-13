@@ -35,7 +35,7 @@ Sin embargo, debemos recordar: GenAI no es una solución mágica. Su verdadero p
 
 {{< vs 2 >}}
 
-### 1. Validando Nuestra Idea
+### Validando Nuestra Idea
 
 Tenemos una idea, pero ¿realmente resuelve un problema? ¿Hay demanda para ella? El primer paso para lanzar un negocio es validar nuestra idea, asegurándonos de que sea viable y tenga un mercado que la necesite.
 
@@ -62,7 +62,7 @@ Tengo una idea para [concepto de negocio]. Ayúdame a validarla haciendo pregunt
 
 {{< vs 2 >}}
 
-### 2. Poniendo a Prueba Nuestra Idea
+### Poniendo a Prueba Nuestra Idea
 
 Una vez que el problema que queremos resolver está validado, es momento de poner a prueba nuestra idea. Esto implica identificar debilidades, riesgos potenciales y áreas de mejora. Nuestro _**Compañero de Ideas**_ puede simular escenarios, explorar preguntas de “qué pasaría si” y fortalecer nuestro plan.
 
@@ -89,7 +89,7 @@ Ayúdame a poner a prueba mi idea de negocio para [concepto específico]. Identi
 
 {{< vs 2 >}}
 
-### 3. Creando un Plan de Acción
+### Creando un Plan de Acción
 
 Con una idea validada y puesta a prueba, el siguiente paso es crear un plan claro. Esto implica desglosar nuestras metas en pasos accionables, identificar hitos y asegurarnos de mantener el enfoque.
 
@@ -116,7 +116,7 @@ Ayúdame a crear un plan de acción para lanzar mi [idea de negocio] en los pró
 
 {{< vs 2 >}}
 
-### 4. Identificando Lo Que No Sabemos
+### Identificando Lo Que No Sabemos
 
 Al lanzar un negocio, es común encontrar áreas desconocidas: preguntas que no sabíamos que debíamos hacer o aspectos que pasamos por alto. Nuestro _**Compañero de Ideas**_ puede ayudarnos a descubrir estos puntos ciegos, guiándonos para explorar aspectos críticos de nuestra idea.
 
@@ -143,7 +143,7 @@ Quiero empezar un negocio de [tipo de negocio]. Ayúdame a identificar áreas qu
 
 {{< vs 2 >}}
 
-### 5. Comenzar e Iterar
+### Comenzar e Iterar
 
 Lanzar nuestro negocio es solo el comienzo. La iteración es clave: aprender de los comentarios, perfeccionar procesos y escalar de manera efectiva. Nuestro _**Compañero de Ideas**_ puede actuar como un socio continuo, analizando resultados y sugiriendo ajustes.
 
@@ -173,3 +173,5 @@ Aquí está el feedback del primer mes de operaciones de mi [idea de negocio]. A
 Empezar un negocio es un viaje emocionante lleno de oportunidades y desafíos. GenAI puede guiarnos en cada paso del camino, desde la validación de ideas hasta la iteración, actuando como nuestro _**Compañero de Ideas**_ para hacer el proceso más claro y manejable.
 
 **Nuestro Turno**: Ya sea que estemos ideando nuestra primera empresa o refinando un proyecto, dejemos que GenAI nos ayude a pensar nuestras ideas, poner a prueba nuestros planes y tomar acción con confianza.
+
+{{< weekly-button path="/es/posts/gen_ai/week_11/tutorial/" text="Práctica Semanal" >}}

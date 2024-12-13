@@ -137,4 +137,4 @@ Strategic planning isn't just about setting goals—it's about aligning those go
 
 **Your Turn**: Use the prompts in this guide to think bigger, adapt strategically, and plan more effectively. Let your ***Thinking Buddy*** guide you through the complexities of personal growth and success.
 
-{{< weekly-button path="/posts/gen_ai/week_10/article/" text="Weekly Article" >}}
+{{< weekly-button path="/posts/gen_ai/week_10/tutorial/" text="Weekly Hands-On" >}}

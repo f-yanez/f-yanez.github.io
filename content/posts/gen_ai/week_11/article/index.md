@@ -34,7 +34,7 @@ However, we shouldn't forget: GenAI isn't a one-size-fits-all solution. Instead,
 
 {{< vs 2 >}}
 
-### 1. Validating Your Idea
+### Validating Your Idea
 
 You have an idea—but does it solve a problem? Is there demand for it? The first step in launching a business is validating your idea, ensuring it's both viable and market-ready.
 
@@ -61,7 +61,7 @@ I have an idea for [business concept]. Help me validate it by asking questions a
 
 {{< vs 2 >}}
 
-### 2. Stress-Testing Your Idea
+### Stress-Testing Your Idea
 
 Once the problem you are trying to solve is validated, it's time to stress-test your idea. This involves identifying weaknesses, potential risks, and areas for improvement. Your ***Thinking Buddy*** can help simulate scenarios, explore “what if” questions, and strengthen your plan.
 
@@ -88,7 +88,7 @@ Help me stress-test my business idea for [specific concept]. Identify potential 
 
 {{< vs 2 >}}
 
-### 3. Creating an Action Plan
+### Creating an Action Plan
 
 With a validated and stress-tested idea, the next step is creating a roadmap. This involves breaking your goals into actionable steps, identifying milestones, and ensuring you stay on track.
 
@@ -115,7 +115,7 @@ Help me create an action plan to launch my [business idea] within the next six m
 
 {{< vs 2 >}}
 
-### 4. Defining What You Don't Know
+### Defining What You Don't Know
 
 When launching a business, you may encounter blind spots—questions you didn't know to ask or areas you overlooked. Your ***Thinking Buddy*** can help uncover these unknowns, guiding you to explore critical aspects of your idea.
 
@@ -142,7 +142,7 @@ I want to start a [business type]. Help me identify areas I may have overlooked.
 
 {{< vs 2 >}}
 
-### 5. Starting and Iterating
+### Starting and Iterating
 
 Launching your business is just the beginning. Iteration is key—learning from feedback, refining processes, and scaling effectively. Your ***Thinking Buddy*** can act as an ongoing partner, analyzing results and suggesting adjustments.
 
@@ -172,3 +172,5 @@ Here's the feedback from my first month of operations for [business idea]. Help 
 Starting a business is an exciting journey filled with both opportunities and challenges. GenAI can guide you every step of the way—from idea validation to iteration—acting as your ***Thinking Buddy*** to make the process clearer and more manageable.
 
 **Your Turn**: Whether you're dreaming of your first venture or refining a side hustle, let GenAI help you think through your ideas, test your plans, and take action with confidence.
+
+{{< weekly-button path="/posts/gen_ai/week_11/tutorial/" text="Weekly Hands-On" >}}
