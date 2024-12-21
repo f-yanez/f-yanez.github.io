@@ -162,7 +162,7 @@ The past 12 weeks were just the beginning of your journey with Generative AI. By
 
 **Your Turn**: Use the prompts in this guide to create a roadmap tailored to your unique journey. With your ***Thinking Buddy*** by your side, the possibilities are limitless.
 
-Thank you for being part of this journey.
+Thank you for being part of this journey. Until our next series!
 
 Happy thinking,
 Fernando

@@ -136,9 +136,10 @@ Este viaje de 12 semanas fue solo el comienzo. Al reflexionar sobre las leccione
 
 **Tu Turno**: Usa los prompts de esta guía para crear un plan adaptado a tu recorrido único. Con tu _**Compañero de Ideas**_ a tu lado, las posibilidades son infinitas.
 
-Gracias por ser parte de esta aventura.
+Gracias por ser parte de esta aventura. ¡Hasta nuestra próxima serie!
 
 ¡Feliz exploración!
+
 Fernando
 
 {{< weekly-button path="/es/posts/gen_ai/week_12/article/" text="Artículo Semanal" >}}
