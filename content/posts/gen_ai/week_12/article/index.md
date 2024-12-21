@@ -35,31 +35,31 @@ As we conclude this phase of the series, let's reflect on what we've learned and
 
 Here's a complete list of the tools we've covered, along with links to the hands-on guides that show you how to apply them:
 
-1. **[Role-Play Scenarios](/posts/gen_ai/week_1/tutorial/)**:
+1. **[Role-Play Scenarios](/posts/gen_ai/week_01/tutorial/)**:
    - Assign a role to your ***Thinking Buddy***, such as "You are a life coach..." or "You are a financial analyst..." to shape its responses.
 
-2. **[Set a Tone or Style](/posts/gen_ai/week_2/tutorial/)**:
+2. **[Set a Tone or Style](/posts/gen_ai/week_02/tutorial/)**:
    - Direct your ***Thinking Buddy*** to adopt a specific tone, like "formal," "friendly," or "academic," for tailored communication.
 
-3. **[Prompt with Contextual Information](/posts/gen_ai/week_3/tutorial/)**:
+3. **[Prompt with Contextual Information](/posts/gen_ai/week_03/tutorial/)**:
    - Provide background details to your ***Thinking Buddy*** to ensure precise, relevant responses.
 
-4. **[Specify Format for the Output](/posts/gen_ai/week_4/tutorial/)**:
+4. **[Specify Format for the Output](/posts/gen_ai/week_04/tutorial/)**:
    - Guide your ***Thinking Buddy*** to produce results in a specific structure, such as bullet points, tables, or concise summaries.
 
-5. **[Feedback Loop](/posts/gen_ai/week_5/tutorial/)**:
+5. **[Feedback Loop](/posts/gen_ai/week_05/tutorial/)**:
    - Refine your ***Thinking Buddy***'s responses iteratively by providing feedback, such as "This is good, but can you make it shorter?"
 
-6. **[Use Constraints to Focus Output](/posts/gen_ai/week_6/tutorial/)**:
+6. **[Use Constraints to Focus Output](/posts/gen_ai/week_06/tutorial/)**:
    - Apply constraints to your ***Thinking Buddy***, such as word limits or specific guidelines, to keep responses focused.
 
-7. **[Prompt to Ask Questions](/posts/gen_ai/week_7/tutorial/)**:
+7. **[Prompt to Ask Questions](/posts/gen_ai/week_07/tutorial/)**:
    - Let your ***Thinking Buddy*** take the lead by prompting it to ask clarifying questions to gather the context it needs.
 
-8. **[Provide Examples for Replication](/posts/gen_ai/week_8/tutorial/)**:
+8. **[Provide Examples for Replication](/posts/gen_ai/week_08/tutorial/)**:
    - Show your ***Thinking Buddy*** a specific example to set a pattern for its output.
 
-9. **[Sequential Questioning](/posts/gen_ai/week_9/tutorial/)**:
+9. **[Sequential Questioning](/posts/gen_ai/week_09/tutorial/)**:
    - Break complex tasks into smaller, step-by-step prompts for detailed responses from your ***Thinking Buddy***.
 
 10. **[Chain of Thought Prompting](/posts/gen_ai/week_10/tutorial/)**:
@@ -116,4 +116,4 @@ The tools, techniques, and lessons from **The GenAI Edge** are just the beginnin
 **Your Turn**: In the next Hands-On, we'll craft our own roadmap to keep advancing in our GenAI journey. With our ***Thinking Buddy***, the possibilities are endless. 
 
 
-{{< weekly-button path="/posts/gen_ai/week_12/tutorial/" text="Weekly Hands-On" >}}
+{{< weekly-button path="/posts/gen_ai/week_012/tutorial/" text="Weekly Hands-On" >}}

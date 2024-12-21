@@ -35,31 +35,31 @@ Al concluir esta etapa de la serie, reflexionemos sobre lo aprendido y considere
 
 Aquí tienes un resumen completo de las herramientas que hemos cubierto, junto con enlaces a las guías prácticas para aprender cómo aplicarlas:
 
-1. **[Juego de Rol](/es/posts/gen_ai/week_1/tutorial/)**:
+1. **[Juego de Rol](/es/posts/gen_ai/week_01/tutorial/)**:
    - Asigna un rol a tu _**Compañero de Ideas**_, como “Eres un coach de vida...” o “Eres un analista financiero...” para personalizar sus respuestas.
 
-2. **[Establece un Tono o Estilo](/es/posts/gen_ai/week_2/tutorial/)**:
+2. **[Establece un Tono o Estilo](/es/posts/gen_ai/week_02/tutorial/)**:
    - Indica a tu _**Compañero de Ideas**_ que adopte un tono específico, como “formal”, “amigable”, o “académico”, según el contexto.
 
-3. **[Proporciona Información Contextual](/es/posts/gen_ai/week_3/tutorial/)**:
+3. **[Proporciona Información Contextual](/es/posts/gen_ai/week_03/tutorial/)**:
    - Da detalles previos a tu _**Compañero de Ideas**_ para garantizar respuestas precisas y relevantes.
 
-4. **[Especifica el Formato del Resultado](/es/posts/gen_ai/week_4/tutorial/)**:
+4. **[Especifica el Formato del Resultado](/es/posts/gen_ai/week_04/tutorial/)**:
    - Guía a tu _**Compañero de Ideas**_ para que entregue resultados en un formato específico, como puntos clave, tablas o resúmenes.
 
-5. **[Ciclo de Feedback](/es/posts/gen_ai/week_5/tutorial/)**:
+5. **[Ciclo de Feedback](/es/posts/gen_ai/week_05/tutorial/)**:
    - Perfecciona las respuestas de tu _**Compañero de Ideas**_ iterativamente al proporcionar comentarios como “Esto está bien, pero ¿puedes hacerlo más corto?”
 
-6. **[Usa Restricciones para Enfocar el Resultado](/es/posts/gen_ai/week_6/tutorial/)**:
+6. **[Usa Restricciones para Enfocar el Resultado](/es/posts/gen_ai/week_06/tutorial/)**:
    - Aplica restricciones como límites de palabras o direcciones específicas para mantener las respuestas enfocadas.
 
-7. **[Pide que Haga Preguntas](/es/posts/gen_ai/week_7/tutorial/)**:
+7. **[Pide que Haga Preguntas](/es/posts/gen_ai/week_07/tutorial/)**:
    - Deja que tu _**Compañero de Ideas**_ tome la iniciativa al solicitarle que haga preguntas aclaratorias para comprender mejor el contexto.
 
-8. **[Da Ejemplos para Replicación](/es/posts/gen_ai/week_8/tutorial/)**:
+8. **[Da Ejemplos para Replicación](/es/posts/gen_ai/week_08/tutorial/)**:
    - Muestra un ejemplo específico para que tu _**Compañero de Ideas**_ lo use como patrón para sus respuestas.
 
-9. **[Cuestionamiento Secuencial](/es/posts/gen_ai/week_9/tutorial/)**:
+9. **[Cuestionamiento Secuencial](/es/posts/gen_ai/week_09/tutorial/)**:
    - Divide tareas complejas en pasos pequeños y ordenados para obtener respuestas más detalladas de tu _**Compañero de Ideas**_.
 
 10. **[Cadena de Pensamientos](/es/posts/gen_ai/week_10/tutorial/)**:
@@ -115,4 +115,4 @@ Las herramientas, técnicas y lecciones de **The GenAI Edge** son solo el inicio
 
 **Nuestro Turno**: En la práctica de esta semana, trazaremos nuestra propia ruta para seguir avanzando en nuestro viaje con GenAI. Con nuestro _**Compañero de Ideas**_, las posibilidades son infinitas. 
 
-{{< weekly-button path="/es/posts/gen_ai/week_12/tutorial/" text="Práctica Semanal" >}}
+{{< weekly-button path="/es/posts/gen_ai/week_012/tutorial/" text="Práctica Semanal" >}}
