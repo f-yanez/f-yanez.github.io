@@ -116,4 +116,4 @@ The tools, techniques, and lessons from **The GenAI Edge** are just the beginnin
 **Your Turn**: In the next Hands-On, we'll craft our own roadmap to keep advancing in our GenAI journey. With our ***Thinking Buddy***, the possibilities are endless. 
 
 
-{{< weekly-button path="/posts/gen_ai/week_012/tutorial/" text="Weekly Hands-On" >}}
+{{< weekly-button path="/posts/gen_ai/week_12/tutorial/" text="Weekly Hands-On" >}}

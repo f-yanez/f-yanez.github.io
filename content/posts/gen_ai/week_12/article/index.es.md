@@ -115,4 +115,4 @@ Las herramientas, técnicas y lecciones de **The GenAI Edge** son solo el inicio
 
 **Nuestro Turno**: En la práctica de esta semana, trazaremos nuestra propia ruta para seguir avanzando en nuestro viaje con GenAI. Con nuestro _**Compañero de Ideas**_, las posibilidades son infinitas. 
 
-{{< weekly-button path="/es/posts/gen_ai/week_012/tutorial/" text="Práctica Semanal" >}}
+{{< weekly-button path="/es/posts/gen_ai/week_12/tutorial/" text="Práctica Semanal" >}}
